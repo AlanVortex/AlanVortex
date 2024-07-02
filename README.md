@@ -3,16 +3,14 @@
 <p align="left">
 
 <a href = "mailto:alanlovzchrissy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="(https://www.facebook.com/alandan1el/)" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="alandan1el"  /></a>
-<a href="(https://www.instagram.com/alaaan.daniel/)" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alaaan.daniel"  /></a>
-<a href="(https://www.tiktok.com/@imalandaniel)" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="imalandaniel"  /></a>
-<a href="(https://www.pinterest.com.mx/alanlovzchrissy/)" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="alanlovzchrissy"  /></a>
-<a href="(https://www.twitch.tv/alancitocrack23)" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="alancitocrack23"  /></a>
-<a href="(https://www.youtube.com/channel/UCapRTD14F1DGLxvualHgLhA)" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="alandaniel6420"  /></a>
-<a href="(https://www.xbox.com/es-MX/play/user/AlancitoCrack23)" target="blank"><img align="center" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="AlancitoCrack23"  /></a>
-<a href="(https://steamcommunity.com/profiles/76561199091088289/)" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="alancitocrack23"  /></a>
-<a href="(https://open.spotify.com/user/y4pfm7i7l1z51z06xxdes7kwu)" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Alan Daniel"  /></a>
-<a href="(https://www.epicgames.com/account/personal?productName=epicgames)" target="blank"><img align="center" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="PUMPED BY . EXE"  /></a>
+<a href="https://www.facebook.com/alandan1el/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="alandan1el"  /></a>
+<a href="https://www.instagram.com/alaaan.daniel/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alaaan.daniel"  /></a>
+<a href="https://www.tiktok.com/@imalandaniel" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="imalandaniel"  /></a>
+<a href="https://www.twitch.tv/alancitocrack23" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="alancitocrack23"  /></a>
+<a href="https://www.xbox.com/es-MX/play/user/AlancitoCrack23" target="blank"><img align="center" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="AlancitoCrack23"  /></a>
+<a href="https://steamcommunity.com/profiles/76561199091088289/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="alancitocrack23"  /></a>
+<a href="https://open.spotify.com/user/y4pfm7i7l1z51z06xxdes7kwu" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Alan Daniel"  /></a>
+<a href="https://www.epicgames.com/account/personal?productName=epicgames" target="blank"><img align="center" src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="PUMPED BY . EXE"  /></a>
 
 </p>
 
