@@ -30,7 +30,15 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,py,dotnet,nodejs,mysql,git,github,materialui,postman,vscode,bash,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,react,postman,vscode,bash,ps&perline=12" />
+  </a>
+</p>
+
+<h2>💻 Tecnologías por Aprender</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,nodejs,mysql&perline=12" />
   </a>
 </p>
 
