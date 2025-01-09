@@ -36,9 +36,7 @@
 </p>
 
 <h2> ⚙️ GitHub Analytics</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlanVortex&theme=dark&hide_border=true"/>
-</p>
+
 <p align="center">
   <a href="https://github.com/AlanVortex">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlanVortex&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
