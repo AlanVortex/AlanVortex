@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,react,vscode,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap,mysql,ts,git&perline=12" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,nodejs,mysql,ts&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,nodejs&perline=12" />
   </a>
 </p>
 
