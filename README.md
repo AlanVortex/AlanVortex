@@ -12,10 +12,8 @@
 <h2>👨🏻‍💻 ¡Sobre mi!</h2>
 
 👨‍💻 &nbsp;Actual Estudiante de Ingeniería en Software\
-💡 &nbsp;Apasionado por la programación en el ámbito FrontEnd\
-🎓 &nbsp;Futuro Ingeniero en Desarrollo de Software\
-🌱 &nbsp;En camino a aprender programación en C# y Python\
-✍️ &nbsp;En mi tiempo libre suelo practicar deporte, hacer ejercicio, y claro que sí, ver series!\
+🎓 &nbsp;Futuro Ing. Gestión de Software\
+✍️ &nbsp;En mi tiempo libre suelo practicar deporte, hacer ejercicio, y estudiar nuevas tecnologías!\
 💭 &nbsp;Sientete libre de darte una vuelta por mis redes sociales!\
 ✉️ &nbsp;Puedes contactarme en alanlovzchrissy@gmail.com! 
 
@@ -23,7 +21,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,astro,react,bootstrap,mysql,ts,git&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,astro,react,bootstrap,tailwind,git&perline=12" />
   </a>
 </p>
 
