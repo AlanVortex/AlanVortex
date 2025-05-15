@@ -1,39 +1,49 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">👤 ¡Hola!, Soy Alan Daniel :)</h2>
+<img alt="Alan Daniel - Perfil Profesional" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2 align="left">👨‍💻 ¡Hola! Soy Alan Daniel</h2>
 
 <p align="left">
-
-<a href = "mailto:alanlovzchrissy@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.facebook.com/alandan1el/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="alandan1el"  /></a>
-<a href="https://www.instagram.com/alaaan.daniel/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alaaan.daniel"  /></a>
-<a href="https://www.tiktok.com/@imalandaniel" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="imalandaniel"  /></a>
-
-</p>
-
-<h2>👨🏻‍💻 ¡Sobre mi!</h2>
-
-👨‍💻 &nbsp;Actual Estudiante de Ingeniería en Software\
-🎓 &nbsp;Futuro Ing. Gestión de Software\
-✍️ &nbsp;En mi tiempo libre suelo practicar deporte, hacer ejercicio, y estudiar nuevas tecnologías!\
-💭 &nbsp;Sientete libre de darte una vuelta por mis redes sociales!\
-✉️ &nbsp;Puedes contactarme en alanlovzchrissy@gmail.com! 
-
-<h2>💻 Tecnologías conocidas</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,astro,react,bootstrap,tailwind,git&perline=12" />
+  <a href="mailto:alanlovzchrissy@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/alandan1el/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/alaaan.daniel/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@imalandaniel" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
 
-<h2>💻 Tecnologías por Aprender</h2>
-<!--tech stack icons-->
+---
+
+### 📌 Sobre mí
+
+🎓 Estudiante de Ingeniería en Software con enfoque en el desarrollo de soluciones eficientes y escalables.  
+💡 Apasionado por el aprendizaje constante de nuevas tecnologías, buenas prácticas de desarrollo y metodologías ágiles.  
+💪 Me interesa mantener un equilibrio entre la programación, el deporte y el crecimiento personal.  
+📫 Puedes contactarme a través de: **alanlovzchrissy@gmail.com**
+
+---
+
+### 🛠️ Tecnologías que manejo
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,nodejs&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,astro,react,bootstrap,tailwind,git&perline=12" />
 </p>
 
-<h2> ⚙️ GitHub Analytics</h2>
+---
+
+### 📚 Tecnologías que estoy aprendiendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,py,dotnet,nodejs&perline=12" />
+</p>
+
+---
+
+### 📈 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/AlanVortex">
@@ -43,4 +53,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlanVortex&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
