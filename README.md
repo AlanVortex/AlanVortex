@@ -30,7 +30,7 @@
 ### 🛠️ Tecnologías que manejo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,astro,react,bootstrap,tailwind,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,spring,mysql,astro,react,bootstrap,tailwind,git&perline=12" />
 </p>
 
 ---
